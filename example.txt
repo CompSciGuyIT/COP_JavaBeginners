@@ -1,0 +1,17 @@
+first line
+second line
+third line
+
+3
+java 1
+java 2
+java 3
+
+coins
+diamonds
+gold
+
+rum
+raisins
+chocolate
+figs
